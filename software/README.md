@@ -1014,6 +1014,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | ManageEngine | ADAudit Plus | Unknown | Investigation | Third party components bundle log4j | |
 | ManageEngine | ADManager Plus | Unknown | Investigation| Mitigation: set `-Dlog4j2.formatMsgNoLookups=true` in `jvm.options`. | [source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-ad-manager-plus) |
 | ManageEngine | Desktop Central | Unknown | Not Vuln | |[source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-security-issue) |
+| ManageEngine | Net Flow | Unknown | Investigation | |
 | ManageEngine | EventLog Analyzer | Unknown | Workaround | |[source](https://pitstop.manageengine.com/portal/en/community/topic/fixing-log4j-cve-2021-44228-vulnerability-in-log360) |
 | McAfee | Data Exchange Layer (DXL) | Unknown | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
 | McAfee | Enterprise Security Manager (ESM) | 11.x | Workaround || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
